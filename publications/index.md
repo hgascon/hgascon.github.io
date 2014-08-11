@@ -14,7 +14,7 @@ Hugo Gascon, Agustin Orfila and Jorge Blasco<br>
 <br>
 
 ## Conference & Workshop Papers
-[**Continuous Authentication on Mobile Devices by Analysis of Typing Motion Behavior**](/publications/2014-sicherheit)<br>
+[**Continuous Authentication on Mobile Devices by Analysis of Typing Motion Behavior**](/publications/2014-sicherheit.pdf)<br>
 Hugo Gascon, Sebastian Uellenbeck, Christopher Wolf, and Konrad Rieck<br>
 *Proc. of GI Conference “Sicherheit” (Sicherheit, Schutz und Verläzsslichkeit)*<br>
 March 2014<br>
