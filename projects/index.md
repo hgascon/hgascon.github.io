@@ -9,8 +9,7 @@ comments: false
 
 ## Adagio
 
-### Structural Analysis and Detection of Android Malware
-
+#### Structural Analysis and Detection of Android Malware
 ---
 <br>
 <img class="project-img" src="../images/icon_adagio.png" style="width:130px;height:130x;float:right;margin:10px 5px 20px 20px;">
@@ -20,7 +19,7 @@ Adagio is a collection of Python modules for analyzing and detecting Android mal
 
 ## Acapulco
 
-### Attack Community grAPh COnstruction
+#### Attack Community Graph Construction
 ---
 <br>
 <img class="project-img" src="../images/icon_acapulco.png" style="width:130px;height:130x;float:right;margin:10px 5px 20px 20px;">
