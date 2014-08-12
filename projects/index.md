@@ -7,7 +7,8 @@ comments: false
 ---
 
 
-## Adagio (Structural Analysis and Detection of Android Malware)
+## Adagio
+# Structural Analysis and Detection of Android Malware
 ---
 <br>
 <img class="project-img" src="../images/icon_adagio.png" style="width:130px;height:130x;float:right;margin:10px 5px 20px 20px;">
@@ -15,7 +16,8 @@ comments: false
 Adagio is a collection of Python modules for analyzing and detecting Android malware. These modules allow to extract labeled call graphs from Android APKs or DEX files and apply an explicit feature map that captures their structural relationships. Additional modules provide classes for designing binary or multiclass classification experiments and applying machine learning for detection of malicious structure. Find the code at its GitHub [repository](https://github.com/hgascon/adagio). 
 <br><br><br><br>
 
-## Acapulco (Attack Community grAPh COnstruction)
+## Acapulco
+# Attack Community grAPh COnstruction
 ---
 <br>
 <img class="project-img" src="../images/icon_acapulco.png" style="width:130px;height:130x;float:right;margin:10px 5px 20px 20px;">
