@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            
+title:            Hugo Gascon
 locale:           en_US
 url:              http://hgascon.github.io
 
@@ -26,8 +26,8 @@ kramdown:
 
 # Site owner
 owner:
-  name: Hugo Gascón
-  avatar: bio-photo.png
+  name: 
+  avatar: 
   bio: "Associate Researcher and Ph.D. Candidate at the Computer Security Group, University of Göttingen"
   email: hgascon@uni-goettingen.de 
   disqus-shortname: 
