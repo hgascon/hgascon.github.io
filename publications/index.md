@@ -61,9 +61,9 @@ Technical report (IFI-TB-2013-02) September 2013<br>
 
 ## Talks & Lectures
 
-[**Smartphone Security**](/publications/Smartphone_Security_2013.pdf)<br>
-Hugo Gascon, Daniel Arp<br>
-Computer and Network Security. MSc in Applied Computer Science WS13/14<br>
+[**Smartphone Security**](/publications/Smartphone_Security_2014.pdf)<br>
+Hugo Gascon<br>
+Computer and Network Security. MSc in Applied Computer Science WS14/15<br>
 University of Göttingen<br>
 <br>
 
