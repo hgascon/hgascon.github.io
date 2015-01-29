@@ -22,6 +22,8 @@ automatic learning of network protocols and analysis of malicious software and
 its communication. My advisor is Prof. Dr. Konrad Rieck.
 <br>
 
+---
+
 ### Professional Activities
 
 #### Membership
