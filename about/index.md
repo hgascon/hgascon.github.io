@@ -5,9 +5,9 @@ tags: [about]
 modified: 8-8-2014
 comments: false
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: 
+  credit: 
+  creditlink: 
 ---
 
 
