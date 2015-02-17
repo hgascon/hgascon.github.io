@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 layout: post
 title: "A List of Services for Detection of Network Security Incidents"
 modified:
