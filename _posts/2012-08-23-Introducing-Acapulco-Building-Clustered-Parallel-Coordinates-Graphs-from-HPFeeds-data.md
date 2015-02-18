@@ -14,7 +14,11 @@ Today I am presenting the first release of Acapulco, a tool to find and display 
 
 Acapulco consists of three different parts that are displayed in the following diagram: the Splunk application, the cluster runner and the visualization web client.
 
-![Schema Acapulco]({{site.url}}/images/2012-08-23-Introducing-Acapulco-Building-Clustered-Parallel-Coordinates-Graphs-from-HPFeeds-data/acapulco_total_schema.png)
+
+<figure>
+    <img src="http://www.hugogascon.com/images/2012-08-23-Introducing-Acapulco-Building-Clustered-Parallel-Coordinates-Graphs-from-HPFeeds-data/acapulco_total_schema.png">
+</figure>
+
 
 The Splunk server and the installed Acapulco application should be managed by an administrator who has one master key to the HPfeeds system. This key should have access to as many channels as possible and, although in this first release not every data feed is included for analysis, new ways of creating meta-events from different feeds will be included in next releases.
 
@@ -28,31 +32,49 @@ When the user is accessing the visualization client, it is necessary to provide 
 
 The following is the intro to the viz client:
 
-![screenshot1]({{site.url}}/images/2012-08-23-Introducing-Acapulco-Building-Clustered-Parallel-Coordinates-Graphs-from-HPFeeds-data/1.png)
+
+<figure>
+    <img src="http://www.hugogascon.com/images/2012-08-23-Introducing-Acapulco-Building-Clustered-Parallel-Coordinates-Graphs-from-HPFeeds-data/1.png">
+</figure>
+
 
 And this is the main graph page before requesting any data:
 
-![screenshot2]({{site.url}}/images/2012-08-23-Introducing-Acapulco-Building-Clustered-Parallel-Coordinates-Graphs-from-HPFeeds-data/2.png)
+
+<figure>
+    <img src="http://www.hugogascon.com/images/2012-08-23-Introducing-Acapulco-Building-Clustered-Parallel-Coordinates-Graphs-from-HPFeeds-data/2.png">
+</figure>
+
 
 After a successful login, a new "Run" button appears and it can be used to retrieve the plain data from the server after the type and amount of data has been selected using the slider bar. Retrieved data are displayed in parallel coordinates graph as shown below.
 
-![screenshot3]({{site.url}}/images/2012-08-23-Introducing-Acapulco-Building-Clustered-Parallel-Coordinates-Graphs-from-HPFeeds-data/3.png)
+
+<figure>
+    <img src="http://www.hugogascon.com/images/2012-08-23-Introducing-Acapulco-Building-Clustered-Parallel-Coordinates-Graphs-from-HPFeeds-data/3.png">
+</figure>
+
 
 The displayed data can be then shown in a clustered view (selecting "clustered data" radio button and leaving other options unchanged).
 
-![screenshot4]({{site.url}}/images/2012-08-23-Introducing-Acapulco-Building-Clustered-Parallel-Coordinates-Graphs-from-HPFeeds-data/4.png)
+
+<figure>
+    <img src="http://www.hugogascon.com/images/2012-08-23-Introducing-Acapulco-Building-Clustered-Parallel-Coordinates-Graphs-from-HPFeeds-data/4.png">
+</figure>
+
 
 This configuration is good to see how the different clusters in different coordinates or features relate to each other, but as all the lines are over imposed on one another it is difficult to see the relative size of each cluster respect to the other ones. Then, we come to a nice way of visualizing the density of the clusters in a parallel coordinate graph. If we hit the show density button, which is only active in the clustered data view, we see the following:
 
-![screenshot5]({{site.url}}/images/2012-08-23-Introducing-Acapulco-Building-Clustered-Parallel-Coordinates-Graphs-from-HPFeeds-data/5.png)
 
-The size of the cluster bubbles represents the number of elements in that cluster and is relative to the number of total events requested. This means that, if all events retrieved belong to just one cluster, the bubble will reach a maximum size. This maximum size will be the same, independently of the amount of events retrieved, if all the events belong to a single cluster.
+<figure>
+    <img src="http://www.hugogascon.com/images/2012-08-23-Introducing-Acapulco-Building-Clustered-Parallel-Coordinates-Graphs-from-HPFeeds-data/5.png">
+</figure>
 
-This might result in a situation when some clusters have no displayed density bubbles in spite of having events. This is only visual effect. Since a size of bubbles is proportional to the number of events in a cluster, clusters with small number of events (e.g., 4) have a significantly smaller bubble size compared to large clusters (e.g., 4000 events).
 
-The cluster density bubbles can be understood as a histogram of the sizes of the clusters in each coordinate and while the relation between them is currently linear, another function, like a logarithm, can be applied to them to stress the difference between very populated and less populated groups.
+The size of the cluster bubbles represents the number of elements in that cluster and is relative to the number of total events requested. This means that, if all events retrieved belong to just one cluster, the bubble will reach a maximum size. This maximum size will be the same, independently of the amount of events retrieved, if all the events belong to a single cluster. This might result in a situation when some clusters have no displayed density bubbles in spite of having events. This is only visual effect. Since a size of bubbles is proportional to the number of events in a cluster, clusters with small number of events (e.g., 4) have a significantly smaller bubble size compared to large clusters (e.g., 4000 events). The cluster density bubbles can be understood as a histogram of the sizes of the clusters in each coordinate and while the relation between them is currently linear, another function, like a logarithm, can be applied to them to stress the difference between very populated and less populated groups.
+
+I have made available [here](https://www.honeynet.org/files/hgascon_acapulco_gsoc_0.pdf) some slides with more details on the project and a very simple and rough [demo video](https://vimeo.com/48014065) with the first version of the visualization client.
+
+>
 
 As described in the project page, the code is available at:
 [https://github.com/hgascon/Acapulco4HNP](https://github.com/hgascon/Acapulco4HNP)
-
-I have made available [here](https://www.honeynet.org/files/hgascon_acapulco_gsoc_0.pdf) some slides with more details on the project and a very simple and rough [demo video](https://vimeo.com/48014065) with the first version of the visualization client.
