@@ -10,7 +10,7 @@ comments: false
 ## Journal Articles
 [**Analysis of update delays in Signature-based Network Intrusion Detection Systems**](/publications/cose2011.pdf)<br>
 Hugo Gascon, Agustin Orfila and Jorge Blasco<br>
-*Computers & Security, Elsevier, 2001*<br>
+*Computers & Security, Elsevier, 2011*<br>
 <br>
 
 ## Conference & Workshop Papers
