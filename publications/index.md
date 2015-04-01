@@ -14,6 +14,12 @@ Hugo Gascon, Agustin Orfila and Jorge Blasco<br>
 <br>
 
 ## Conference & Workshop Papers
+
+[**Automatic Inference of Search Patterns for Taint-Style Vulnerabilities**]()
+Fabian Yamaguchi, Alwin Maier, Hugo Gascon and Konrad Rieck<br>
+*Proc. of 36th IEEE Symposium on Security and Privacy (S&P)*<br>
+May 2015<br>
+<br>
 [**Continuous Authentication on Mobile Devices by Analysis of Typing Motion Behavior**](/publications/2014-sicherheit.pdf)<br>
 Hugo Gascon, Sebastian Uellenbeck, Christopher Wolf, and Konrad Rieck<br>
 *Proc. of GI Conference “Sicherheit” (Sicherheit, Schutz und Verläzsslichkeit)*<br>
