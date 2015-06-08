@@ -16,7 +16,6 @@ Göttingen. Prior to this, I have worked at the Machine Learning Group of Prof.
 Dr. Müller at the Berlin Institute of Technology (TU Berlin) and at the
 Computer Security Lab at Carlos III University of Madrid were I received a
 M.Sc. in Telecommunication Engineering.<br><br>
-
 My research interests focus currently on the applications of learning methods
 for high dimentional structured data and machine learning to solve
 malware analysis and threat intelligence related problems.
