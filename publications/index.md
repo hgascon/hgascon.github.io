@@ -15,12 +15,12 @@ Hugo Gascon, Agustin Orfila and Jorge Blasco<br>
 
 ## Conference & Workshop Papers
 
-[**Fingerprinting Mobile Devices Using Personalized Configurations**]()<br>
+[**Fingerprinting Mobile Devices Using Personalized Configurations**](/publications/2016-pets.pdf)<br>
 Andreas Kurtz, Hugo Gascon, Tobias Becker, Konrad Rieck and Felix Freiling<br>
 *Proc. of 16th Privacy Enhancing Technologies Symposium (PETS)*<br>
 July 2016 (to appear)<br>
 <br>
-[**Automatic Inference of Search Patterns for Taint-Style Vulnerabilities**]()<br>
+[**Automatic Inference of Search Patterns for Taint-Style Vulnerabilities**](/publications/2015-ieeesp.pdf)<br>
 Fabian Yamaguchi, Alwin Maier, Hugo Gascon and Konrad Rieck<br>
 *Proc. of 36th IEEE Symposium on Security and Privacy (S&P)*<br>
 May 2015<br>
