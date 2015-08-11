@@ -18,7 +18,7 @@ Hugo Gascon, Agustin Orfila and Jorge Blasco<br>
 [**Fingerprinting Mobile Devices Using Personalized Configurations**](/publications/2016-pets.pdf)<br>
 Andreas Kurtz, Hugo Gascon, Tobias Becker, Konrad Rieck and Felix Freiling<br>
 *Proc. of 16th Privacy Enhancing Technologies Symposium (PETS)*<br>
-July 2016 (to appear)<br>
+July 2016<br>
 <br>
 [**Automatic Inference of Search Patterns for Taint-Style Vulnerabilities**](/publications/2015-ieeesp.pdf)<br>
 Fabian Yamaguchi, Alwin Maier, Hugo Gascon and Konrad Rieck<br>
