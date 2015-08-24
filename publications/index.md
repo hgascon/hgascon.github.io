@@ -20,7 +20,7 @@ Andreas Kurtz, Hugo Gascon, Tobias Becker, Konrad Rieck and Felix Freiling<br>
 *Proc. of 16th Privacy Enhancing Technologies Symposium (PETS)*<br>
 July 2016<br>
 <br>
-[**PULSAR: Stateful Black-Box Fuzzing of Proprietary Network Protocols**](/publications/2015-securecomm.pdf)<br>
+[**Pulsar: Stateful Black-Box Fuzzing of Proprietary Network Protocols**](/publications/2015-securecomm.pdf)<br>
 Hugo Gascon, Christian Wressnegger, Fabian Yamaguchi, Daniel Arp and Konrad Rieck<br>
 *Proc. of 11th EAI International Conference on Security and Privacy in Communication Networks (SECURECOMM)*<br>
 October 2015<br>
