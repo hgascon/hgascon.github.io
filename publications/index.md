@@ -20,6 +20,11 @@ Andreas Kurtz, Hugo Gascon, Tobias Becker, Konrad Rieck and Felix Freiling<br>
 *Proc. of 16th Privacy Enhancing Technologies Symposium (PETS)*<br>
 July 2016<br>
 <br>
+[**PULSAR: Stateful Black-Box Fuzzing of Proprietary Network Protocols**](/publications/2015-securecomm.pdf)<br>
+Hugo Gascon, Christian Wressnegger, Fabian Yamaguchi, Daniel Arp and Konrad Rieck<br>
+*Proc. of 11th EAI International Conference on Security and Privacy in Communication Networks (SECURECOMM)*<br>
+October 2015<br>
+<br>
 [**Automatic Inference of Search Patterns for Taint-Style Vulnerabilities**](/publications/2015-ieeesp.pdf)<br>
 Fabian Yamaguchi, Alwin Maier, Hugo Gascon and Konrad Rieck<br>
 *Proc. of 36th IEEE Symposium on Security and Privacy (S&P)*<br>
