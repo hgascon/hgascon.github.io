@@ -15,7 +15,7 @@ Hugo Gascon, Agustin Orfila and Jorge Blasco<br>
 
 ## Conference & Workshop Papers
 
-[**Fingerprinting Mobile Devices Using Personalized Configurations**](/publications/2016-pets.pdf)<br>
+[**Fingerprinting Mobile Devices Using Personalized Configurations**](https://www1.cs.fau.de/filepool/projects/unique/unique.pdf)<br>
 Andreas Kurtz, Hugo Gascon, Tobias Becker, Konrad Rieck and Felix Freiling<br>
 *Proc. of 16th Privacy Enhancing Technologies Symposium (PETS)*<br>
 July 2016<br>
