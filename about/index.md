@@ -21,16 +21,3 @@ for high dimentional structured data and machine learning to solve
 malware analysis and threat intelligence related problems.
 My advisor is Prof. Dr. Konrad Rieck.
 <br>
-
----
-
-### Professional Activities
-
-#### Membership
-* Student Member of the Association for Computer Machinery (ACM)
-* Member of the Society of Spanish Researchers in Germany (CERFA/SFBD)
-
-#### Reviewing for Journals
-* Journal of Information Security and Applications
-* Information Security Journal: A Global Perspective
-* Data Mining and Knowledge Discovery

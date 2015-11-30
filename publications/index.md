@@ -7,13 +7,13 @@ comments: false
 
 ---
 
-## Journal Articles
+#### JOURNAL ARTICLES
 [**Analysis of update delays in Signature-based Network Intrusion Detection Systems**](/publications/2011-cose.pdf)<br>
 Hugo Gascon, Agustin Orfila and Jorge Blasco<br>
 *Computers & Security, Elsevier, 2011*<br>
 <br>
 
-## Conference & Workshop Papers
+#### CONFERENCE & WORKSHOP PAPERS
 
 [**Fingerprinting Mobile Devices Using Personalized Configurations**](https://www1.cs.fau.de/filepool/projects/unique/unique.pdf)<br>
 Andreas Kurtz, Hugo Gascon, Tobias Becker, Konrad Rieck and Felix Freiling<br>
@@ -68,14 +68,14 @@ Jaime García, Francisco Valera, David Díez, Hugo Gascón<br>
 *Proceedings of JITEL 2005*<br>
 <br>
 
-## Technical Reports
+#### TECHNICAL REPORTS
 
 [**Drebin: Efficient and Explainable Detection of Android Malware in Your Pocket**](/publications/2013-drebin.pdf)<br>
 Daniel Arp, Michael Spreitzenbarth, Malte Hübner, Hugo Gascon, and Konrad Rieck<br>
 Technical report (IFI-TB-2013-02) September 2013<br>
 <br>
 
-## Talks & Lectures
+#### TALKS & LECTURES
 
 [**Smartphone Security**](/publications/Smartphone_Security_2014.pdf)<br>
 Hugo Gascon<br>
@@ -83,7 +83,7 @@ Computer and Network Security. MSc in Applied Computer Science WS14/15<br>
 University of Göttingen<br>
 <br>
 
-## Theses
+#### THESES
 
 [**Estudio de un IDS Open Source frente a herramientas de análisis y explotación de vulnerabilidades**](http://e-archivo.uc3m.es/handle/10016/11213)<br>
 Hugo Gascon<br>
