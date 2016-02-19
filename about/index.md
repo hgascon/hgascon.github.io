@@ -2,7 +2,7 @@
 layout: page
 title: 
 tags: [about]
-modified: 8-8-2014
+modified:
 comments: false
 image:
   feature: 
@@ -10,14 +10,20 @@ image:
   creditlink: 
 ---
 
+<img class="project-img" src="../images/hg.png" style="width:110px;height:110;float:right;margin:10px 5px 20px 20px;">
+<br>
 
-I am a Ph.D. researcher at the Computer Security Group of the University of
-Göttingen. Prior to this, I have worked at the Machine Learning Group of Prof.
-Dr. Müller at the Berlin Institute of Technology (TU Berlin) and at the
-Computer Security Lab at Carlos III University of Madrid were I received a
-M.Sc. in Telecommunication Engineering.<br><br>
-My research interests focus currently on the applications of learning methods
-for high dimentional structured data and machine learning to solve
-malware analysis and threat intelligence related problems.
-My advisor is Prof. Dr. Konrad Rieck.
+I am a currently a Ph.D. researcher at the Computer Security Group of the
+University of Göttingen. Prior to this, I worked at the Machine Learning Group
+of Prof. Dr. Müller at the Berlin Institute of Technology and at the Computer
+Security Lab at Carlos III University of Madrid, where I received a M.Sc. in
+Telecommunication Engineering. During autumn 2015 I joined the Symantec Center
+for Advanced Machine Learning in Mountain View as a research intern, where I worked 
+on deep learning methods to analyze and classify behavior properties in
+malicious code.<br><br>
+
+My current research focus on the application of learning methods for high
+dimentional structured data to improve the analysis and reverse engineering of
+malware samples and to build behavioral models that facilitate the early
+identification of targeted attacks (a.k.a. APTs).
 <br>
