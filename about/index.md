@@ -19,7 +19,7 @@ of Prof. Dr. Müller at the Berlin Institute of Technology and at the Computer
 Security Lab at Carlos III University of Madrid, where I received a M.Sc. in
 Telecommunication Engineering. During autumn 2015 I joined the Symantec Center
 for Advanced Machine Learning in Mountain View as a research intern, where I worked 
-on deep learning methods to analyze and classify behavior properties in
+on deep learning methods to analyse and classify behavioral patterns in
 malicious code.<br><br>
 
 My current research focus on the application of learning methods for high
