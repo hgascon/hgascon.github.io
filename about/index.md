@@ -18,9 +18,9 @@ University of Göttingen. Prior to this, I worked at the Machine Learning Group
 of Prof. Dr. Müller at the Berlin Institute of Technology and at the Computer
 Security Lab at Carlos III University of Madrid, where I received a M.Sc. in
 Telecommunication Engineering. During autumn 2015 I joined the Symantec Center
-for Advanced Machine Learning in Mountain View as a research intern, where I worked 
-on deep learning methods to analyse and classify behavioral patterns in
-malicious code.<br><br>
+for Advanced Machine Learning in Mountain View as a research intern, where I
+worked on deep learning methods for classifcation of code graph representations
+to infer behavioral patterns in malicious code.<br><br>
 
 My research interests revolve around the development of new learning methods
 for high dimentional structured data to analyse and reverse engineer malware
