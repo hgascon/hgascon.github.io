@@ -22,8 +22,9 @@ for Advanced Machine Learning in Mountain View as a research intern, where I wor
 on deep learning methods to analyse and classify behavioral patterns in
 malicious code.<br><br>
 
-My current research focus on the application of learning methods for high
-dimentional structured data to improve the analysis and reverse engineering of
-malware samples and to build behavioral models that facilitate the early
-identification of targeted attacks (a.k.a. APTs).
+My research interests revolve around the development of new learning methods
+for high dimentional structured data to analyse and reverse engineer malware
+samples and build system behavioral models (software and human) that facilitate
+the early identification of targeted attacks (a.k.a. APTs)
+
 <br>
