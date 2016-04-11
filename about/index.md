@@ -17,7 +17,7 @@ I am a currently a Ph.D. researcher at the Institute of System Security at TU
 Braunschweig. Prior to this, I graduated in Telecommunication Engineering at
 the Computer Security Lab at Carlos III University of Madrid and then joined
 the Machine Learning Group of Prof. Dr. Müller at the Berlin Institute of
-Technology. 
+Technology.<br><br> 
 
 During autumn 2015 I joined the Symantec Center
 for Advanced Machine Learning in Mountain View as a research intern, where I
