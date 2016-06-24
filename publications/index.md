@@ -7,12 +7,6 @@ comments: false
 
 ---
 
-#### JOURNAL ARTICLES
-[**Analysis of update delays in Signature-based Network Intrusion Detection Systems**](/publications/2011-cose.pdf)<br>
-Hugo Gascon, Agustin Orfila and Jorge Blasco<br>
-*Computers & Security, Elsevier, 2011*<br>
-<br>
-
 #### CONFERENCE & WORKSHOP PAPERS
 
 [**Fingerprinting Mobile Devices Using Personalized Configurations**](https://www1.cs.fau.de/filepool/projects/unique/unique.pdf)<br>
@@ -66,6 +60,12 @@ Hugo Gascon, David Díez, Jaime Garcia and Francisco Valera<br>
 [**Estudio de un Router Software para la implementación de una Pasarela Residencial**](/publications/est_jitel05.pdf)<br>
 Jaime García, Francisco Valera, David Díez, Hugo Gascón<br>
 *Proceedings of JITEL 2005*<br>
+<br>
+
+#### JOURNAL ARTICLES
+[**Analysis of update delays in Signature-based Network Intrusion Detection Systems**](/publications/2011-cose.pdf)<br>
+Hugo Gascon, Agustin Orfila and Jorge Blasco<br>
+*Computers & Security, Elsevier, 2011*<br>
 <br>
 
 #### TECHNICAL REPORTS
