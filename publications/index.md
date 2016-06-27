@@ -77,11 +77,16 @@ Technical report (IFI-TB-2013-02) September 2013<br>
 
 #### TALKS & LECTURES
 
+[**Deep Learning for Malware Analysis**](/publications/hgascon-dl4m.pdf)<br>
+Hugo Gascon<br>
+Machine Learning for Computer Security. MSc in Computer Science SS16<br>
+Technical University of Braunschweig<br>
+<br>
+
 [**Smartphone Security**](/publications/Smartphone_Security_2014.pdf)<br>
 Hugo Gascon<br>
 Computer and Network Security. MSc in Applied Computer Science WS14/15<br>
 University of Göttingen<br>
-<br>
 
 #### THESES
 
