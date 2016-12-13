@@ -7,6 +7,7 @@ comments: false
 ---
 
 ### PULSAR
+
 #### Protocol Learning, Simulation and Stateful Fuzzer
 <img class="project-img" src="../images/icon_pulsar.png" style="width:100px;height:100x;float:right;margin:0px 0px 90px 20px;padding:20px 0px 0px 0px">
 <br>
@@ -14,6 +15,7 @@ Pulsar is a network fuzzer with automatic protocol learning and simulation capab
 <br><br>
 
 ### ADAGIO
+
 #### Structural Analysis and Detection of Android Malware
 <img class="project-img" src="../images/icon_adagio.png" style="width:100px;height:100x;float:right;margin:0px 0px 90px 20px;padding:20px 0px 0px 0px">
 <br>
@@ -21,6 +23,7 @@ Adagio is a collection of Python modules for analyzing and detecting Android mal
 <br><br>
 
 ### ACAPULCO
+
 #### Attack Community Graph Construction
 <img class="project-img" src="../images/icon_acapulco.png" style="width:100px;height:100x;float:right;margin:0px 0px 90px 20px;padding:20px 0px 0px 0px">
 <br>
