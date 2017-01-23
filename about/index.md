@@ -27,6 +27,6 @@ to infer behavioral patterns in malicious code.<br><br>
 My research interests revolve around the development of new learning methods
 for high dimentional structured data to analyse and reverse engineer malware
 code and build system behavioral models that facilitate
-the early identification of targeted attacks (a.k.a. APTs)
+the early identification of targeted attacks.
 
 <br>

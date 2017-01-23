@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title:
 tags: [projects]
 modified: 8-8-2014
 comments: false

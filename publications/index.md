@@ -9,6 +9,11 @@ comments: false
 
 #### CONFERENCE & WORKSHOP PAPERS
 
+[**Mining Attributed Graphs for Threat Intelligence**](/publications/2017-codaspy.pdf)<br>
+Hugo Gascon, Bernd Grobauer, Thomas Schreck, Lukas Rist, Daniel Arp and Konrad Rieck<br>
+*Proc of 7th. ACM Conference on Data and Applications Security and Privacy (CODASPY)*<br>
+March 2017 (to appear)<br>
+<br>
 [**Fingerprinting Mobile Devices Using Personalized Configurations**](https://www1.cs.fau.de/filepool/projects/unique/unique.pdf)<br>
 Andreas Kurtz, Hugo Gascon, Tobias Becker, Konrad Rieck and Felix Freiling<br>
 *Proc. of 16th Privacy Enhancing Technologies Symposium (PETS)*<br>
