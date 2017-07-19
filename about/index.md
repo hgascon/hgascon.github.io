@@ -21,11 +21,11 @@ Technology.<br><br>
 
 During autumn 2015 I joined the Symantec Center
 for Advanced Machine Learning in Mountain View as a research intern, where I
-worked on deep learning methods for classifcation of code graph representations
+worked on deep learning methods for classification of code graph representations
 to infer behavioral patterns in malicious code.<br><br>
 
 My research interests revolve around the development of new learning methods
-for high dimentional structured data to analyse and reverse engineer malware
+for high dimensional structured data to analyse and reverse engineer malware
 code and build system behavioral models that facilitate
 the early identification of targeted attacks.
 
