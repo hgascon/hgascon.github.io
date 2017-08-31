@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: "- Hugo Gascon"
 tags: [about]
 modified:
 comments: false
