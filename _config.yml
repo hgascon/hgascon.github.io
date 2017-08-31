@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            <p></p>
+title:            <font color="white">Hugo Gascon</font>
 locale:           en_US
 url:              http://www.hugogascon.com
 
