@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            <span style="display:inline-block; width: 0;"></span>
+title:            <p></p>
 locale:           en_US
 url:              http://www.hugogascon.com
 
