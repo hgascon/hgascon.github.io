@@ -9,6 +9,11 @@ comments: false
 
 #### CONFERENCE & WORKSHOP PAPERS
 
+[**Reading Between The Lines: Content-Agnostic Detection of Spear-Phishing Emails**](/publications/hgascon_raid2018.pdf)<br>
+Hugo Gascon, Steffen Ulrich, Benjamin Stritter and Konrad Rieck<br>
+*Proc of 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID)*<br>
+September 2018 (to appear)<br>
+<br>
 [**Mining Attributed Graphs for Threat Intelligence**](/publications/2017-codaspy.pdf)<br>
 Hugo Gascon, Bernd Grobauer, Thomas Schreck, Lukas Rist, Daniel Arp and Konrad Rieck<br>
 *Proc of 7th. ACM Conference on Data and Applications Security and Privacy (CODASPY)*<br>
