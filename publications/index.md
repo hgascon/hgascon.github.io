@@ -11,12 +11,17 @@ comments: false
 
 [**Reading Between The Lines: Content-Agnostic Detection of Spear-Phishing Emails**](/publications/hgascon_raid2018.pdf)<br>
 Hugo Gascon, Steffen Ulrich, Benjamin Stritter and Konrad Rieck<br>
-*Proc of 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID)*<br>
-September 2018 (to appear)<br>
+*Proc. of 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID)*<br>
+September 2018<br>
+<br>
+[**Spear-Phishing Detection through Content-Agnostic Email Sender Profiles**]()<br>
+Hugo Gascon, Steffen Ulrich, Benjamin Stritter and Konrad Rieck<br>
+*Proc. of 2nd Bridging European Science Symposium (BES)*<br>
+June 2018<br>
 <br>
 [**Mining Attributed Graphs for Threat Intelligence**](/publications/2017-codaspy.pdf)<br>
 Hugo Gascon, Bernd Grobauer, Thomas Schreck, Lukas Rist, Daniel Arp and Konrad Rieck<br>
-*Proc of 7th. ACM Conference on Data and Applications Security and Privacy (CODASPY)*<br>
+*Proc. of 7th. ACM Conference on Data and Applications Security and Privacy (CODASPY)*<br>
 March 2017<br>
 <br>
 [**Fingerprinting Mobile Devices Using Personalized Configurations**](https://www1.cs.fau.de/filepool/projects/unique/unique.pdf)<br>
