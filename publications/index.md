@@ -9,7 +9,7 @@ comments: false
 
 #### CONFERENCE & WORKSHOP PAPERS
 
-[**Reading Between The Lines: Content-Agnostic Detection of Spear-Phishing Emails**](/publications/hgascon_raid2018.pdf)<br>
+[**Reading Between The Lines: Content-Agnostic Detection of Spear-Phishing Emails**](/publications/gascon_raid2018.pdf)<br>
 Hugo Gascon, Steffen Ulrich, Benjamin Stritter and Konrad Rieck<br>
 *Proc. of 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID)*<br>
 September 2018<br>
