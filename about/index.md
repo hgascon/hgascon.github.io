@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "- Hugo Gascon"
+layout: home
+title: "About"
 tags: [about]
 modified:
 comments: false
@@ -29,4 +29,3 @@ for high dimensional structured data to analyse and reverse engineer malware
 code and build system behavioral models that facilitate
 the early identification of targeted attacks.
 
-<br>

@@ -7,7 +7,7 @@
 {% include _head.html %}
 </head>
 
-<body class="home">
+<body class="page">
 
 {% include _browser-upgrade.html %}
 
@@ -28,22 +28,61 @@
 <!--</div>-->
 <!--{% endif %}-->
 
-<div class="article-author-side">
-  {% include _author-bio.html %}
-</div>
-
-<div id="index">
-    <!--<h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>-->
-  {% for post in site.posts limit:5 %}    
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
   <article>
-    {% if post.link %}
-      <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
-    {% else %}
-      <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-    {% endif %}
+      <!--<h1>{{ page.title }}</h1>-->
+    <div class="article-wrap">
+      {{ content }}
+
+      <div class="more">
+      {% capture text-capture %}
+
+##### Reviewer for Journals
+International Journal of Information Security (IJIS)<br>
+Information Security Journal: A Global Perspective (ISJ)<br>
+Information Security Technical Report (ISTR)<br>
+Journal of Information Security and Applications (JISA)<br>
+Data Mining and Knowledge Discovery (DAMI)<br>
+IET Information Security (IET-IS)<br>
+Pervasive and Mobile Computing (PMC)<br>
+Security and Communication Networks (SCN)<br>
+Transactions on Dependable and Secure Computing (TDSC)<br>
+Neural Computing and Applications (NCAA)<br>
+
+##### External Reviewer
+CCS<br>
+DIMVA<br>
+
+##### PC Memberships
+2018: Jornadas Nacionales de Ciberseguridad (JNIC)<br>
+2017: International Workshop on FORmal methods for Security Engineering (ForSE)<br>
+
+##### Organizations
+
+Norway Chapter Lead @ The Honeynet Project<br>
+Security Without Borders<br>
+
+##### Teaching
+Seminar Malware Analysis and Detection, WS 17/18 (Assistant)<br>
+Seminar Malware Analysis and Detection, WS 16/17 (Assistant)<br>
+Seminar Malware Analysis and Detection, WS 15/16 (Assistant)<br>
+
+##### Bachelor and Master Thesis
+
+##### Awards
+German Prize for IT-Security 2016 (2nd Place)
+
+
+        {% endcapture %}
+
+        {% include widgets/toggle.html name="more-text" button-text="•••" text=text-capture %}
+
+    </div><!-- /.more -->
+    </div><!-- /.article-wrap -->
   </article>
-  {% endfor %}
 </div><!-- /#index -->
 
 <div class="footer-wrap">
@@ -52,7 +91,10 @@
   </footer>
 </div><!-- /.footer-wrap -->
 
-{% include _scripts.html %}
-  
+{% include _scripts.html %}          
+
+
+
+
 </body>
 </html>

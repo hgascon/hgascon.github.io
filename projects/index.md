@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "- Hugo Gascon"
+title: "Projects"
 tags: [projects]
-modified: 8-8-2014
+modified:
 comments: false
 ---
 

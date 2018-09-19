@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            ""
+title:            "Hugo Gascon"
 locale:           en_US
-url:              http://gascon.xyz
+url:              https://hugogascon.com
 
 
 # Jekyll configuration
@@ -41,7 +41,7 @@ owner:
     ad-slot: 
   bing-verify: 
   github: hgascon
-  stackoverflow:
+  stackoverflow: 2482148
   linkedin:
   instagram: 
   lastfm:

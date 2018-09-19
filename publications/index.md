@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "- Hugo Gascon"
+title: "Publications"
 tags: [publications]
-modified: 8-8-2014
+modified: 
 comments: false
 
 ---

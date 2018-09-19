@@ -11,15 +11,19 @@ h2 {
 }
 h3 {
 	@include font-size(24);
+    margin: 5px 0px;
 }
 h4 {
 	@include font-size(18);
+    margin: 5px 0px;
 }
 h5 {
 	@include font-size(16);
+    margin: 5px 0px;
 }
 h6 {
 	@include font-size(14);
+    margin: 5px 0px;
 }
 
 // Links
@@ -111,14 +115,15 @@ blockquote {
 // Paragraphs
 // --------------------------------------------------
 p {
-	margin: 0 0 $indent-var;
-	// sibling indentation
-  @if $paragraph-indent == true {
-    & + p {
-			text-indent: $indent-var;
-			margin-top: -($indent-var);
-		}
-	}
+	//margin: 0 0 $indent-var;
+	margin: 0;
+  // sibling indentation
+  //@if $paragraph-indent == true {
+  //  & + p {
+  //		text-indent: $indent-var;
+  //			margin-top: -($indent-var);
+  //	}
+  //}
 }
 
 // Code

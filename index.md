@@ -1,6 +1,6 @@
 ---
-layout: page
-title: 
+layout: home 
+title: "Home"
 tags: [about]
 modified:
 comments: false
@@ -28,4 +28,3 @@ for high dimentional structured data to analyse and reverse engineer malware
 code and build system behavioral models that facilitate
 the early identification of targeted attacks.
 
-<br>

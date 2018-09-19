@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: "- Hugo Gascon"
+title: "Posts"
 excerpt: "A List of Posts"
 ---

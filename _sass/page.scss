@@ -201,6 +201,7 @@ $button-size: 1.5rem;
 	-ms-transition: max-height .4s;
 	transition: max-height .4s;
 }
+
 #main {
 	counter-reset: captions;
 	@include container;
@@ -415,6 +416,9 @@ $button-size: 1.5rem;
 	li > a.reversefootnote {
 		border-bottom-width: 0;
 	}
+}
+.more{
+    font-size: 75%;
 }
 .toc {
 	display: none;
