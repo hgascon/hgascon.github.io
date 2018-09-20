@@ -1,5 +1,6 @@
+
+<input type="checkbox"  name="moretoogle" id="moretoogle" class="btn-more" >
 <label  for="moretoogle" class="btn-more" >
             {% if include.button-text %} {{include.button-text}} {% else %} Open {% endif %}
 </label>
-<input type="checkbox"  name="moretoogle" id="moretoogle" class="btn-more" >
 <div id="{{include.name}}" class="collapse">{{include.text | markdownify }}</div>

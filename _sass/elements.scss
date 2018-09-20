@@ -70,21 +70,22 @@ label.btn-more{
   transition: .1s;
   cursor: pointer;
   user-select: none;
-  margin-bottom: 5px;
-  padding: 2px 5px;
-  @include font-rem(7);
-  background-color: $white;
-  color: $primary;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 1px 5px 3px 5px;
+  border-width: 2px !important;
+  border-style: solid !important;
+  border-color: $primary;
+  @include font-rem(10);
+  background-color: $primary;
+  color: $white;
   @include rounded(3px);
   //&:visited {
   //  color: $white;
   //}
   &:hover {
-  background-color: $primary;
-  color: $white;
-  border-width: 2px !important;
-  border-style: solid !important;
-  border-color: $primary;
+  background-color: $white;
+  color: $primary;
   }
   &:active{
   background-color: $white;
@@ -94,11 +95,24 @@ label.btn-more{
 input.btn-more{
     display:none;
 }
-input.btn-more + *{
+.collapse{
     visibility: hidden;
 }
-input.btn-more:checked + *{
+input.btn-more + div{
+    visibility: hidden;
+}
+input.btn-more:checked~.collapse{
     visibility: visible;
+}
+
+ input.btn-more:checked + label{
+    background-color: $white;
+    color: $primary;
+}
+
+input.btn-more:checked + label:hover{
+    background-color: $primary;
+    color: $white;
 }
 // When JavaScript is disabled, we hide the more toggle button
 .no-js .btn-more{
