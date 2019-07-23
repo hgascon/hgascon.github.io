@@ -28,10 +28,10 @@ kramdown:
 owner:
   name: Hugo Gascón
   avatar: hg.png
-  bio: "Associate Researcher and Ph.D. Candidate at the Institute of System Security, TU Braunschweig"
+  bio: ""
   email: h.gascon@tu-bs.de 
   disqus-shortname: 
-  twitter: hgascon
+  twitter: 
   facebook: 
   google:
     plus: 
@@ -55,4 +55,4 @@ sass:
     sass_dir: _sass
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
