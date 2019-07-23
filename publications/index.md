@@ -8,7 +8,11 @@ comments: false
 ---
 
 #### CONFERENCE & WORKSHOP PAPERS
-
+[**TypeMiner: Recovering Types in Binary Programs Using Machine Learning**](/publications/2019b_dimva.pdf)<br>
+Alwin Maier, Hugo Gascon, Christian Wressnegger and Konrad Rieck<br>
+*International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA)*<br>
+June 2019<br>
+<br>
 [**Reading Between The Lines: Content-Agnostic Detection of Spear-Phishing Emails**](/publications/gascon_raid2018.pdf)<br>
 Hugo Gascon, Steffen Ulrich, Benjamin Stritter and Konrad Rieck<br>
 *Proc. of 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID)*<br>
