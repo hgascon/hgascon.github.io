@@ -28,8 +28,8 @@ kramdown:
 owner:
   name: Hugo Gascón
   avatar: hg.png
-  bio: ""
-  email: h.gascon@tu-bs.de 
+  bio: 
+  email: 
   disqus-shortname: 
   twitter: 
   facebook: 
@@ -40,8 +40,8 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: hgascon
-  stackoverflow: 2482148
+  github: 
+  stackoverflow: 
   linkedin:
   instagram: 
   lastfm:
