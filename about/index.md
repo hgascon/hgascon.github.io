@@ -13,7 +13,7 @@ image:
 <img class="project-img" src="../images/hg.png" style="width:110px;height:110;float:right;margin:10px 5px 20px 20px;">
 <br>
 
-I am a data scientist at DCSO, the German Cyber Security Organization,
+I am data scientist at DCSO, the German Cyber Security Organization,
 where our team drives innovation in threat detection and analysis through
 applied research on machine learning for security.
 <br><br>
