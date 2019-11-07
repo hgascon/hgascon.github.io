@@ -13,7 +13,7 @@ image:
 <br>
 
 
-I am data scientist at DCSO, the German Cyber Security Organization,
+I am senior data scientist at DCSO, the German Cyber Security Organization,
 where our team drives innovation in threat detection and analysis through
 applied research on machine learning for security.
 <br><br>
