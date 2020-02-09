@@ -110,7 +110,7 @@ University of Göttingen<br>
 
 [**Defending against targeted attacks with pattern recognition**](/publications/hgascon_thesis.pdf)<br>
 Hugo Gascon<br>
-*Ph.D. Thesis, Technical University of Braunschweig, 2019*
+*Ph.D. Thesis, Technical University of Braunschweig, 2019*<br>
 <br>
 [**Estudio de un IDS Open Source frente a herramientas de análisis y explotación de vulnerabilidades**](http://e-archivo.uc3m.es/handle/10016/11213)<br>
 Hugo Gascon<br>
