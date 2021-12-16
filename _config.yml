@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            "Hugo Gascon"
+title:            "Hugo Gascón"
 locale:           en_US
 url:              https://hugogascon.com
 
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: 
+  github:
   stackoverflow: 
   linkedin:
   instagram: 
