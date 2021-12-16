@@ -9,7 +9,7 @@ image:
   credit: 
   creditlink: 
 ---
-<img class="project-img" src="../images/hg.png" style="width:110px;height:110;float:right;margin:10px 5px 20px 10px;">
+<img class="project-img" src="../images/hg.png" style="width:110px;height:110;margin:10px 5px 20px 10px;">
 <br>
 
 <br><br>
