@@ -98,7 +98,7 @@ Technical report (IFI-TB-2013-02) September 2013<br>
 
 **Defending Against Targeted Attacks with Machine Learning**<br>
 Hugo Gascon<br>
-Applied Machine Learning Days 2020
+Applied Machine Learning Days 2020<br>
 EPFL<br>
 <br>
 [**Deep Learning for Malware Analysis**](/publications/hgascon-dl4ma.pdf)<br>
