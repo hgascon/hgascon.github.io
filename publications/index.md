@@ -96,6 +96,11 @@ Technical report (IFI-TB-2013-02) September 2013<br>
 
 #### TALKS & LECTURES
 
+**Defending Against Targeted Attacks with Machine Learning**<br>
+Hugo Gascon<br>
+Applied Machine Learning Days 2020
+EPFL<br>
+<br>
 [**Deep Learning for Malware Analysis**](/publications/hgascon-dl4ma.pdf)<br>
 Hugo Gascon<br>
 Machine Learning for Computer Security. MSc in Computer Science SS18<br>
