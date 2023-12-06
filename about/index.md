@@ -9,8 +9,6 @@ image:
   credit: 
   creditlink: 
 ---
-<img class="project-img" src="../images/hg.png" style="width:110px;height:110;float:right;margin:10px 5px 20px 20px;">
- <br>
 
 I am Applied Researcher at German Edge Cloud and Associate Professor at the
 ICAI School of Engineering in Madrid, where I teach the course on artificial
