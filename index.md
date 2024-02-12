@@ -13,4 +13,4 @@ image:
 <br><br>
 <b>Hi, I'm Hugo Gascón.</b>
 <br><br>
-I'm a machine learning and cybersecurity researcher and engineer in Berlin, Germany.
+I'm a machine learning and security researcher and engineer in Berlin, Germany.
