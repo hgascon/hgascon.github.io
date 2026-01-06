@@ -77,10 +77,12 @@ International Workshop on FORmal methods for Security Engineering (ForSE) [2017,
 Chairman Board of Directors <br>
 Norway Chapter Lead <br>
  
+ <br>
 
 <a href="https://www.theguild.ai"><strong>The AI Guild</strong></a> <br>
 Founding Member <br>
- 
+  
+  <br>
 
 <a href="https://cerfa.de/"><strong>Society of Spanish Researchers in Germany (CERFA/SFBD)</strong></a> <br>
 Member <br>
@@ -91,18 +93,18 @@ Member <br>
 
 <strong>ICAI School of Engineering</strong> <br>
 Artificial Intelligence Applied to Cybersecurity [SS20, SS21, SS22, SS23] <br>
-<a href="https://www.comillas.edu/en/masters/master-degree-in-cybersecurity"><strong>MSc in Cybersecurity</strong></a> <br>
+<a href="https://www.comillas.edu/en/masters/master-degree-in-cybersecurity">MSc in Cybersecurity</a> <br>
  
 <br>
 <strong>Technical University of Braunschweig</strong> <br>
 Deep Learning for Malware Analysis - Machine Learning for Computer Security [SS17, SS18] <br>
 Seminar Malware Analysis and Detection [WS15, WS16, WS17] <br>
-<strong>MSc in Computer Science</strong>  <br>
+MSc in Computer Science <br>
  <br>
 
 <strong>University of Göttingen</strong> <br>
 Smartphone Security - Computer and Network Security [WS14, WS15] <br>
-<strong>MSc in Applied Computer Science</strong>  <br>
+MSc in Applied Computer Science <br>
  
 <br>
 <h3>Supervision</h3>
