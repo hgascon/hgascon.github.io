@@ -24,7 +24,7 @@ faster, more accurate engines for threat analysis and detection.
 
 <br>
 <br>
-<div class="small-block">
+<div class="more">
 <h3>Peer Review</h3>
 
  **Journals**<br>
