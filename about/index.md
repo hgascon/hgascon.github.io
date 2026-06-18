@@ -10,10 +10,9 @@ image:
   creditlink: 
 ---
 
-I’m the Security Operations Lead at WIIT AG, where I design, deploy, and
-continuously refine our security stack while overseeing day‑to‑day operations
-and coordinating SOC analysts and engineers to ensure rapid detection,
-response, and remediation.
+I’m a Threat Research Engineer at Proofpoint, building AI-powered tools to augment 
+our analysts’ threat triage, campaign attribution, and malware analysis in our
+mission against disruptive cyber operations.
 <br>
 <br>
 In the past I have held several research and engineering roles across academia
